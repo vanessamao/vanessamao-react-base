@@ -1,0 +1,31 @@
+{
+  "name": "vanessamao-react-base",
+  "version": "1.0.0",
+  "description": "react staging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanessamao/vanessamao-react-base.git"
+  },
+  "keywords": [
+    "react",
+    "init",
+    "staging"
+  ],
+  "author": "vanessamao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanessamao/vanessamao-react-base/issues"
+  },
+  "homepage": "https://github.com/vanessamao/vanessamao-react-base#readme",
+  "devDependencies": {
+    "babel-loader": "^6.2.10",
+    "css-loader": "^0.26.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "style-loader": "^0.13.1"
+  }
+}
